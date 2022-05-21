@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("我是手機");
 Console.WriteLine("我是電視PUSH");
+
+Console.WriteLine("我是電視先PUSH第二次");
